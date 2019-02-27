@@ -1,5 +1,3 @@
-<img src="https://tylermcginnis.com/tylermcginnis_glasses-300.png" width="300" align="right">
-
 Battle of Code
 
 ========
