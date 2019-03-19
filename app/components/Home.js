@@ -11,7 +11,7 @@ class Home extends React.Component {
                 <Link className='button' to='/battle'>
                     Battle!
                 </Link>
-            </div>
+            </div> 
         )
     }
 }
